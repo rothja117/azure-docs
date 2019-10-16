@@ -17,7 +17,7 @@ ms.author: mathoma
 ms.reviewer: jroth
 ---
 # What is SQL Server on Azure Virtual Machines? (Windows)
-
+ 
 > [!div class="op_single_selector"]
 > * [Windows](virtual-machines-windows-sql-server-iaas-overview.md)
 > * [Linux](../../linux/sql/sql-server-linux-virtual-machines-overview.md)
