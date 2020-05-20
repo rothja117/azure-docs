@@ -17,7 +17,7 @@ ms.date: 04/08/2019
 The single database deployment option creates a database in Azure SQL Database with its own set of resources and is managed via a SQL Database server. With a single database, each database is isolated from each other and portable, each with its own service tier within the [DTU-based purchasing model](sql-database-service-tiers-dtu.md) or [vCore-based purchasing model](sql-database-service-tiers-vcore.md) and a guaranteed compute size.
 
 > [!IMPORTANT]
-> Single database is one of three deployment options for Azure SQL Database. The other two are [elastic pools](sql-database-elastic-pool.md) and [managed instance](sql-database-managed-instance.md).
+> Single database is one of three deployment options for SQL Database. The other two are [elastic pools](sql-database-elastic-pool.md) and [managed instance](sql-database-managed-instance.md).
 > [!NOTE]
 > For a glossary of terms in Azure SQL Database, see [SQL Database terms glossary](sql-database-glossary-terms.md)
 
