@@ -23,7 +23,7 @@ A job handles the task of logging in to the target database. You also define, ma
 Every job logs the status of execution and also automatically retries the operations if any failure occurs.
 
 ## When to use automated jobs
-
+ 
 There are several scenarios when you could use job automation:
 
 - Automate management tasks and schedule them to run every weekday, after hours, etc.
